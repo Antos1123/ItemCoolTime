@@ -1,0 +1,5 @@
+name: ItemCoolTime
+version: '1.0-SNAPSHOT'
+main: kr.antos112.ict.ItemCoolTime
+api-version: '1.21'
+authors: [ Antos112 ]
